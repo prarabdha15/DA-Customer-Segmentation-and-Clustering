@@ -1,0 +1,19 @@
+Problem Statement : Understand the target customers for the marketing team to plan the strategy.
+		    
+Your boos wants to identify the most important shopping groups based on income, age and mall shopping score. 
+
+He wants the ideal number of groups with a label for each.
+
+Objective Market Segmentation :
+
+Divide your mall target market into approachable groups.
+Create subsets of market based on demographics behavioural criteria to better understand the target for marketing activities.
+
+
+The Approach:
+
+1. Perform quick EDA ( Exploratory Data Analysis )
+2. Use KMEANS Clustering Algorithm to create our segments.
+3. Use Summary Statistics on the clusters.
+4. Visualize.
+
